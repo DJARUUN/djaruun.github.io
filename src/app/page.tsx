@@ -1,7 +1,7 @@
 export default function Page() {
     return (
         <>
-            <p>Test text</p>
+            <p>Test text!!</p>
         </>
     )
 }
